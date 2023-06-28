@@ -1,0 +1,47 @@
+body { 
+    margin: 0px;
+}
+
+header{
+background-color: rgb(236, 240, 13);
+height: 150px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+.productos-header {
+    justify-content: flex-end;
+    position: absolute;
+    top: 10.5%;
+    right: 15%;
+}
+
+.header-nav {
+    justify-content: flex-end;
+    position: absolute;
+    top: 19.5%;
+    right: 240%;
+}
+
+.opiniones {
+    justify-content: flex-end;
+    position: absolute;
+    top: 10.5%;
+    right: 4%;
+
+}
+
+.footer-nav ul {
+list-style: none;
+}
+
+.footer-nav h2{
+margin-left: 5%;
+
+}
